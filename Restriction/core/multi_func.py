@@ -9,12 +9,10 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 
 api_keys = {
-    "https://luckyurl.in/api?": "d57b03aeccd8b7766e40c6095d7a8cf8b91a94b6",
     "https://modijiurl.com/api?": "e2500c935828f01bba4aec0115e1ae3122b9b399",
     "https://kingurl.in/api?": "818290dbdf8330715f3537ccdaddd064c5dc5530",
     "https://instantearn.in/api?": "f4c64eeefa209989122483005f51ef94ce491107",
-    "https://indianshortner.com/api?": "277be95035bcd028981d5200ee18c5dad6728fbb",
-    "https://Just2earn.com/api?": "b1cfe234460b69cf974bbe66a56d2271282c66a3"
+    "https://indianshortner.com/api?": "277be95035bcd028981d5200ee18c5dad6728fbb", 
 }
 
 
@@ -105,7 +103,7 @@ async def verification_accepter(_, message):
     if user_id in short_verify and short_verify[user_id] == token:
         if user_id not in verified_users:
             verified_users[user_id] = "Verified"
-            asyncio.create_task(clear_verify(message, delay=10800))
+            asyncio.create_task(clear_verify(message, delay=21600))
             await message.reply_text(f"Hello {name}, your account has been successfully approved ✅")
             api_key = await api_func(user_id)
             print(f"API Key for User {name}: {api_key}")
