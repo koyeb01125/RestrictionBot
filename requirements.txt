@@ -1,0 +1,9 @@
+pyrofork
+tgcrypto
+requests
+motor
+pytz
+hachoir
+aiofiles
+aiohttp
+ffmpeg
