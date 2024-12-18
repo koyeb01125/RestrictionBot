@@ -188,7 +188,7 @@ async def fbatch_link(_, message):
 
         users_loop[user_id] = True
 
-        for i in range(s, s + 11): 
+        for i in range(s, s + 21): 
             await asyncio.sleep(1.5)
             if user_id in users_loop and users_loop[user_id]:
                 msg = await message.reply_text("<b><i>Processing...</i></b>")
