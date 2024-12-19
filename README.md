@@ -40,7 +40,7 @@
   </li>
   <li>
     <b>Start the bot:</b><br>
-    <pre>python -m RestrictionBot</pre>
+    <pre>python -m Restriction</pre>
   </li>
 </ol>
 
