@@ -6,9 +6,10 @@
 <p align="center">  
 I am a multi-functional bot designed to manage restrictions in Telegram groups. Save videos, audio files, media, and more from private or public channels with ease. Whether you're managing a community or downloading restricted content, I’ve got you covered.  
 </p>  
+
 ---
 
-<h3 align="center">🚀  Deploy the Bot 🚀</h3>  <p align="center">  
+<h3 align="center">Deploy on Heroku</h3>  <p align="center">  
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Sumit0045/RestrictionBot">  
     <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/>  
   </a>  
