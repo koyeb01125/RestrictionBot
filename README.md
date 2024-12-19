@@ -1,7 +1,7 @@
 <h1 align="center">Restriction Bot</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/v96bnx.jpg" alt="Restriction Bot Logo" />
+  <img src="https://envs.sh/8y2.jpg" alt="Restriction Bot Logo" />
 </p>
 
 <p align="center">
