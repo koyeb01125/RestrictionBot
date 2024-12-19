@@ -13,16 +13,7 @@ I am a multi-functional bot designed to manage restrictions in Telegram groups. 
     <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/>  
   </a>  
 </p>  
----
 
-<h2 align="center">✨ Key Features ✨</h2>  <ul>  
-  <li>🔒 **Effortless Restriction Management**: Restrict or unrestrict users with a single command.</li>  
-  <li>🖼️ **Customizable Experience**: Personalize captions, thumbnails, and posts to suit your style.</li>  
-  <li>💎 **Accessibility**: Free and premium users can both enjoy this bot's functionality.</li>  
-  <li>🛠️ **Simple Interface**: Designed for everyone, regardless of technical expertise.</li>  
-  <li>📥 **Download Media**: Seamlessly download from both public and private Telegram groups or channels.</li>  
-  <li>💰 **Monetization Features**: Earn coins, purchase premium access, or even sell coins to others. You can also gift premium access for a fee!</li>  
-</ul>  
 ---
 
 <h2 align="center">🛠️ Deployment Options 🛠️</h2>  Deploy on Local VPS/Server
@@ -47,6 +38,18 @@ Fill the config.py file with all the required details. Ensure you provide databa
 
 <pre>python -m RestrictionBot</pre>
 
+---
+
+<h2 align="center">✨ Key Features ✨</h2>  <ul>  
+  <li>🔒 **Effortless Restriction Management**: Restrict or unrestrict users with a single command.</li>  
+  <li>🖼️ **Customizable Experience**: Personalize captions, thumbnails, and posts to suit your style.</li>  
+  <li>💎 **Accessibility**: Free and premium users can both enjoy this bot's functionality.</li>  
+  <li>🛠️ **Simple Interface**: Designed for everyone, regardless of technical expertise.</li>  
+  <li>📥 **Download Media**: Seamlessly download from both public and private Telegram groups or channels.</li>  
+  <li>💰 **Monetization Features**: Earn coins, purchase premium access, or even sell coins to others. You can also gift premium access for a fee!</li>  
+</ul> 
+
+---
 
 <h2 align="center">📜 Why This Bot? 📜</h2>  This bot was created to simplify restriction management and media downloading on Telegram. Its user-friendly interface, monetization options, and premium accessibility ensure that it’s perfect for both individuals and community managers.
 
