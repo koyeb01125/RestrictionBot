@@ -45,14 +45,14 @@
 
 ---
 
-<h2 align="center">✨ ᴋᴇʏ ғᴇᴀᴛᴜʀᴇꜱ ✨</h2>
+<h2 align="center">✨ ᴋᴇʏ ꜰᴇᴀᴛᴜʀᴇꜱ ✨</h2>
 <ul>
-  <li>🔒 <b>Effortless Restriction Management:</b> Restrict or unrestrict users with a single command.</li>
-  <li>🖼️ <b>Customizable Experience:</b> Personalize captions, thumbnails, and posts to suit your style.</li>
-  <li>💎 <b>Accessibility:</b> Free and premium users can both enjoy this bot's functionality.</li>
-  <li>🛠️ <b>Simple Interface:</b> Designed for everyone, regardless of technical expertise.</li>
-  <li>📥 <b>Download Media:</b> Seamlessly download from both public and private Telegram groups or channels.</li>
-  <li>💰 <b>Monetization Features:</b> Earn coins, purchase premium access, or even sell coins to others. You can also gift premium access for a fee!</li>
+  <li>🔒 <b>Effortless Restriction Management:</b>ʀᴇꜱᴛʀɪᴄᴛ ᴏʀ ᴜɴʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ᴀ ꜱɪɴɢʟᴇ ᴄᴏᴍᴍᴀɴᴅ.</li>
+  <li>🖼️ <b>Customizable Experience:</b>ᴘᴇʀꜱᴏɴᴀʟɪᴢᴇ ᴄᴀᴘᴛɪᴏɴꜱ, ᴛʜᴜᴍʙɴᴀɪʟꜱ, ᴀɴᴅ ᴘᴏꜱᴛꜱ ᴛᴏ ꜱᴜɪᴛ ʏᴏᴜʀ ꜱᴛʏʟᴇ.</li>
+  <li>💎 <b>Accessibility:</b>ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ᴜꜱᴇʀꜱ ᴄᴀɴ ʙᴏᴛʜ ᴇɴᴊᴏʏ ᴛʜɪꜱ ʙᴏᴛ'ꜱ ꜰᴜɴᴄᴛɪᴏɴᴀʟɪᴛʏ.</li>
+  <li>🛠️ <b>Simple Interface:</b> ᴅᴇꜱɪɢɴᴇᴅ ꜰᴏʀ ᴇᴠᴇʀʏᴏɴᴇ, ʀᴇɢᴀʀᴅʟᴇꜱꜱ ᴏꜰ ᴛᴇᴄʜɴɪᴄᴀʟ ᴇxᴘᴇʀᴛɪꜱᴇ.</li>
+  <li>📥 <b>Download Media:</b> ꜱᴇᴀᴍʟᴇꜱꜱʟʏ ᴅᴏᴡɴʟᴏᴀᴅ ꜰʀᴏᴍ ʙᴏᴛʜ ᴘᴜʙʟɪᴄ ᴀɴᴅ ᴘʀɪᴠᴀᴛᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘꜱ ᴏʀ ᴄʜᴀɴɴᴇʟꜱ.</li>
+  <li>💰 <b>Monetization Features:</b>ᴇᴀʀɴ ᴄᴏɪɴꜱ, ᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇꜱꜱ, ᴏʀ ᴇᴠᴇɴ ꜱᴇʟʟ ᴄᴏɪɴꜱ ᴛᴏ ᴏᴛʜᴇʀꜱ. ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ɢɪꜰᴛ ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇꜱꜱ ꜰᴏʀ ᴀ ꜰᴇᴇ!</li>
 </ul>
 
 ---
