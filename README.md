@@ -1,4 +1,4 @@
-<h1 align="center">ʀᴇsᴛʀɪᴄᴛɪᴏɴ ʙᴏᴛ</h1>
+<h1 align="center">ʀᴇꜱᴛʀɪᴄᴛɪᴏɴ ʙᴏᴛ</h1>
 
 <p align="center">
   <img src="https://envs.sh/8y2.jpg" alt="𝑹𝒆𝒔𝒕𝒓𝒊𝒄𝒕𝒊𝒐𝒏 𝑩𝒐𝒕 𝑳𝒐𝒈𝒐" />
@@ -13,19 +13,19 @@
 <h3 align="center">ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ</h3>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Sumit0045/RestrictionBot">
-    <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
+    <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku" width="200" height="38.45"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">ᴅᴇᴘʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ᴠᴘs/sᴇʀᴠᴇʀ</h2>
+<h2 align="center">ᴅᴇᴘʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ᴠᴘꜱ/ꜱᴇʀᴠᴇʀ</h2>
 
 <p>𝙵𝚘𝚕𝚕𝚘𝚠 𝚝𝚑𝚎𝚜𝚎 𝚜𝚝𝚎𝚙𝚜 𝚝𝚘 𝚍𝚎𝚙𝚕𝚘𝚢 𝚝𝚑𝚎 𝚋𝚘𝚝 𝚘𝚗 𝚢𝚘𝚞𝚛 𝚜𝚎𝚛𝚟𝚎𝚛 𝚘𝚛 𝚕𝚘𝚌𝚊𝚕 𝚅𝙿𝚂:</p>
 
 <ol>
   <li>
-    <b>Set up the configuration:</b><br>
+    <b>ꜱᴇᴛ ᴜᴘ ᴛʜᴇ ᴄᴏɴғɪɢᴜʀᴀᴛɪᴏɴ:</b><br>
     𝙵𝚒𝚕𝚕 𝚝𝚑𝚎 <code>config.py</code> 𝚏𝚒𝚕𝚎 𝚠𝚒𝚝𝚑 𝚊𝚕𝚕 𝚝𝚑𝚎 𝚛𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚍𝚎𝚝𝚊𝚒𝚕𝚜. 𝙴𝚗𝚜𝚞𝚛𝚎 𝚢𝚘𝚞 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚄𝚁𝙻𝚜 𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚗𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚌𝚛𝚎𝚍𝚎𝚗𝚝𝚒𝚊𝚕𝚜.
   </li>
   <li>
@@ -45,7 +45,7 @@
 
 ---
 
-<h2 align="center">✨ ᴋᴇʏ ғᴇᴀᴛᴜʀᴇs ✨</h2>
+<h2 align="center">✨ ᴋᴇʏ ғᴇᴀᴛᴜʀᴇꜱ ✨</h2>
 <ul>
   <li>🔒 <b>Effortless Restriction Management:</b> Restrict or unrestrict users with a single command.</li>
   <li>🖼️ <b>Customizable Experience:</b> Personalize captions, thumbnails, and posts to suit your style.</li>
@@ -57,9 +57,9 @@
 
 ---
 
-<h2 align="center">📜 ᴡʜʏ ᴛʜɪs ʙᴏᴛ? 📜</h2>
+<h2 align="center">📜 ᴡʜʏ ᴛʜɪꜱ ʙᴏᴛ? 📜</h2>
 <p>
-  This bot was created to simplify restriction management and media downloading on Telegram. Its user-friendly interface, monetization options, and premium accessibility ensure that it’s perfect for both individuals and community managers.
+ᴛʜɪꜱ ʙᴏᴛ ᴡᴀꜱ ᴄʀᴇᴀᴛᴇᴅ ᴛᴏ ꜱɪᴍᴘʟɪꜰʏ ʀᴇꜱᴛʀɪᴄᴛɪᴏɴ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴍᴇᴅɪᴀ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ. ɪᴛꜱ ᴜꜱᴇʀ-ꜰʀɪᴇɴᴅʟʏ ɪɴᴛᴇʀꜰᴀᴄᴇ, ᴍᴏɴᴇᴛɪᴢᴀᴛɪᴏɴ ᴏᴘᴛɪᴏɴꜱ, ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇꜱꜱɪʙɪʟɪᴛʏ ᴇɴꜱᴜʀᴇ ᴛʜᴀᴛ ɪᴛ’ꜱ ᴘᴇʀꜰᴇᴄᴛ ꜰᴏʀ ʙᴏᴛʜ ɪɴᴅɪᴠɪᴅᴜᴀʟꜱ ᴀɴᴅ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴍᴀɴᴀɢᴇʀꜱ.  
 </p>
 
 ---
