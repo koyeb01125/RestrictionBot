@@ -19,34 +19,33 @@
 
 ---
 
-<h2 align="center">🛠️ Deployment Options 🛠️</h2>
-<p>Deploy on Local VPS/Server</p>
+<h2 align="center">ᴅᴇᴘʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ᴠᴘs/sᴇʀᴠᴇʀ</h2>
 
-<p>Follow these steps to deploy the bot on your server or local VPS:</p>
+<p>𝙵𝚘𝚕𝚕𝚘𝚠 𝚝𝚑𝚎𝚜𝚎 𝚜𝚝𝚎𝚙𝚜 𝚝𝚘 𝚍𝚎𝚙𝚕𝚘𝚢 𝚝𝚑𝚎 𝚋𝚘𝚝 𝚘𝚗 𝚢𝚘𝚞𝚛 𝚜𝚎𝚛𝚟𝚎𝚛 𝚘𝚛 𝚕𝚘𝚌𝚊𝚕 𝚅𝙿𝚂:</p>
 
 <ol>
   <li>
     <b>Set up the configuration:</b><br>
-    Fill the <code>config.py</code> file with all the required details. Ensure you provide database URLs and other necessary credentials.
+    𝙵𝚒𝚕𝚕 𝚝𝚑𝚎 <code>config.py</code> 𝚏𝚒𝚕𝚎 𝚠𝚒𝚝𝚑 𝚊𝚕𝚕 𝚝𝚑𝚎 𝚛𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚍𝚎𝚝𝚊𝚒𝚕𝚜. 𝙴𝚗𝚜𝚞𝚛𝚎 𝚢𝚘𝚞 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚄𝚁𝙻𝚜 𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚗𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚌𝚛𝚎𝚍𝚎𝚗𝚝𝚒𝚊𝚕𝚜.
   </li>
   <li>
-    <b>Clone the repository:</b><br>
+    <b>𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢:</b><br>
     <pre>git clone https://github.com/Sumit0045/RestrictionBot</pre>
     <pre>cd RestrictionBot</pre>
   </li>
   <li>
-    <b>Install the dependencies:</b><br>
+    <b>𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚝𝚑𝚎 𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚒𝚎𝚜:</b><br>
     <pre>pip install -r requirements.txt</pre>
   </li>
   <li>
-    <b>Start the bot:</b><br>
+    <b>𝚂𝚝𝚊𝚛𝚝 𝚝𝚑𝚎 𝚋𝚘𝚝:</b><br>
     <pre>python -m Restriction</pre>
   </li>
 </ol>
 
 ---
 
-<h2 align="center">✨ Key Features ✨</h2>
+<h2 align="center">✨ ᴋᴇʏ ғᴇᴀᴛᴜʀᴇs ✨</h2>
 <ul>
   <li>🔒 <b>Effortless Restriction Management:</b> Restrict or unrestrict users with a single command.</li>
   <li>🖼️ <b>Customizable Experience:</b> Personalize captions, thumbnails, and posts to suit your style.</li>
@@ -58,14 +57,14 @@
 
 ---
 
-<h2 align="center">📜 Why This Bot? 📜</h2>
+<h2 align="center">📜 ᴡʜʏ ᴛʜɪs ʙᴏᴛ? 📜</h2>
 <p>
   This bot was created to simplify restriction management and media downloading on Telegram. Its user-friendly interface, monetization options, and premium accessibility ensure that it’s perfect for both individuals and community managers.
 </p>
 
 ---
 
-<h2 align="center">📩 Contributing</h2>
+<h2 align="center">📩 ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ</h2>
 <ol>
   <li>Fork the repository.</li>
   <li>Make your changes.</li>
@@ -74,6 +73,3 @@
 
 ---
 
-<p align="center">
-  💻 <b>Start managing your restrictions and downloading with ease today!</b>
-</p>
