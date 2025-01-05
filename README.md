@@ -1,19 +1,19 @@
-<h1 align="center">Restriction Bot</h1>
+<h1 align="center">ʀᴇsᴛʀɪᴄᴛɪᴏɴ ʙᴏᴛ</h1>
 
 <p align="center">
-  <img src="https://envs.sh/8y2.jpg" alt="Restriction Bot Logo" />
+  <img src="https://envs.sh/8y2.jpg" alt="𝑹𝒆𝒔𝒕𝒓𝒊𝒄𝒕𝒊𝒐𝒏 𝑩𝒐𝒕 𝑳𝒐𝒈𝒐" />
 </p>
 
 <p align="center">
-  I am a multi-functional bot designed to manage restrictions in Telegram groups. Save videos, audio files, media, and more from private or public channels with ease. Whether you're managing a community or downloading restricted content, I’ve got you covered.
+  ɪ ᴀᴍ ᴀ ᴍᴜʟᴛɪ-ꜰᴜɴᴄᴛɪᴏɴᴀʟ ʙᴏᴛ ᴅᴇꜱɪɢɴᴇᴅ ᴛᴏ ᴍᴀɴᴀɢᴇ ʀᴇꜱᴛʀɪᴄᴛɪᴏɴꜱ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘꜱ. ꜱᴀᴠᴇ ᴠɪᴅᴇᴏꜱ, ᴀᴜᴅɪᴏ ꜰɪʟᴇꜱ, ᴍᴇᴅɪᴀ, ᴀɴᴅ ᴍᴏʀᴇ ꜰʀᴏᴍ ᴘʀɪᴠᴀᴛᴇ ᴏʀ ᴘᴜʙʟɪᴄ ᴄʜᴀɴɴᴇʟꜱ ᴡɪᴛʜ ᴇᴀꜱᴇ. ᴡʜᴇᴛʜᴇʀ ʏᴏᴜ'ʀᴇ ᴍᴀɴᴀɢɪɴɢ ᴀ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴏʀ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʀᴇꜱᴛʀɪᴄᴛᴇᴅ ᴄᴏɴᴛᴇɴᴛ, ɪ’ᴠᴇ ɢᴏᴛ ʏᴏᴜ ᴄᴏᴠᴇʀᴇᴅ.
 </p>
 
 ---
 
-<h3 align="center">-- Deploy on Heroku --</h3>
+<h3 align="center">ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ</h3>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Sumit0045/RestrictionBot">
-    <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
+    <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
   </a>
 </p>
 
